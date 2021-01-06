@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="162" height="39" viewBox="0 0 162 39">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 64 64">
+      <image width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAFf0lEQVR4Xt2bXYwTVRTH/6ctroYgtHerRCIxKAZR1PgRo4kfJMQvlt4CsfCkT8qLMT5IfOhdUmhBIsbEjyf1wWhiEFmh7VI/ooEYEg0SiUo0GhKzYkSWThcWxF22M8fMtt0su+122pnptLvJPjS5c875/eaeO3c6U8Is+kvuO3sj+YovAiQBusTgj66AsetlGT5fC5NmC38qk5dg6gPgn8J00oAut8hrjlVjnRUCUpkhCTb2z3CW/9ah91ST0PEC6sFXpBBQVcIsEKDtBmODlVYuSfD1bJHBiXboKAE7svllepE39q4NJyYDpzLNS+gYAcns4FIy/OYit4INY6sdCWA+ZZB/tTkTOkJAou/0kkAgYMLfWTnzdiWY7UD6nNvbXsDOTGFxkdmEv2dqn9uXQLvaWkAqm19EBvUxcF+tRc6mhMG2FZDYM7gw0DXe8w/UW+GblsC40JYCXssOd48YxT6AH6oHb2dNYGB32wl4pf9sUNcNE36lVfimJRDubysBiZx2dWDMXPBoVaPwjUpg4LleKd5tGwEvffDP3AXz5+wF8Hiz8FYlVODN8W0h4M0cdw2PFcwFb7Vd+HoSmPG1eeYn3SM4lbK5OImDHAgMD+0FWDYXofZR1a4OU0d7OwOYaXumsJeBdU7DzzQTJufyTMCO/dpyw0c7wbzGLXgrEjwRMA5P2APgVrfhJ/V6Ii7FVs9bwAt4Bn7UdSOWWBf+3VMBXsCDcAR+X0ytDg5Um20tawFP4IHDVDRi8fXhU7VarSUCPIEnOlQc8a9PxOYXZlpnXBfgFXxXV7Bn82P0b71F1lUBXsGHTwUf3bSJxurBu7oV9gpeRUIN3UW6MgM6Bd6VGdBJ8I4L6DR4RwV0IrxjAjoV3hEBnQxvW4An8MA3SoqHrVzjrYxp+jLoCTzRYRUJPWgFzOqYpgR4AU+Eb+MRUfchiVXwpr8T9AIejCMqKmo+HmsUuumvxDyBB44qKe61A+nI3aA38HxMye673IK3fBXwBh4/KSnucBPekgBP4AnHVUSscBu+rgBP4Bm/qqhY3gr4GQV4Ag/8pqRY1ir4GQUk9+e/IyJXLj3VAemEkqGlrYSvKWB7f+E21vnnFhbzh5JiSQvzTaSquhNMZYdegGG80ZKCCAMqIm5oSa4qSaoKSKbzaQJF3C6KGX/1RsX1budpaCO0I3c+zGOXBhi4ys3CzPf04lIscjOHldjTZkAqq22Agd2lg+kEwDdZCdTgmNNKioUNHuPK8OkC0to7AJ4tC3gb4GsBPOVg9rySIuxgPFuhpglIprUBAhaXLhHUE5ehA6m0Zj7Kti+BqKAiIWGrYocPvkxAMjv0CBnGwVIOPn3zqFgUi5FufnJAwjklxQKH67cd7jIBqXQ+CZAq8eM9FRXlVijlaVoC8wUV7Z5nu1oXAkwRoH1feSmZwet7ZfenU3M2IeGikmKuC7U7EnJCQLL//C2kX/qltPhjpEijIrHmuovVsliXwKNKdl/pSKUuBZkQkErnnwforXKeT5QUsZly1pNAoLG4DF3hUt2OhZ0kQMsBeGI8ssFPq7XdH1bLUnqXVzdfZa38V9vDG0qKqT9fc6xoJwONC3j983Ohi6NFrRK4aPiCibXBs5XP2/adudvv969i5gp07RqIDjX6iNpJoEZjjQvYltFiPsbH5f7/0u/zb7RwlsvD8R8D/QTKjM3hTOJJMdxoEV6OHxeQSmvvA3imXMhX5eldsy4G/iSifjI4E4+KL7wEsJu7JCBTGARzve3pUQYO+MifiUcW/GA3cbscT5fv/qaV9RkxHWBwRkXFyXYp2sk6aHu68CqDN5cams6AOWcQcsa8UCaxkkacTNaOsSiV1o4TKGf4KNe7JnioHYt0s6b/Afuci4ifGZwFAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="グループ_221" data-name="グループ 221" transform="translate(-283 -287)">
+    <g id="長方形_44" data-name="長方形 44" transform="translate(283 287)" fill="#fff" stroke="#84b1ed" stroke-width="2">
+      <rect width="162" height="39" rx="19.5" stroke="none"/>
+      <rect x="1" y="1" width="160" height="37" rx="18.5" fill="none"/>
+    </g>
+    <text id="テキストから追加" transform="translate(327 312)" fill="#84b1ed" font-size="14" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="0" y="0">テキスト</tspan><tspan y="0" font-size="11">から追加</tspan></text>
+    <rect id="定番ペンのフリーアイコン素材_1_" data-name="定番ペンのフリーアイコン素材 (1)" width="17" height="17" rx="1" transform="translate(302 298)" fill="url(#pattern)"/>
+  </g>
+</svg>

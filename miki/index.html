@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/ress.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>検索画面</title>
+</head>
+<body>
+  <form action="result.php" method="get">
+    <div class="planDate">
+      <select name="planYear">
+        <option value="2019">2019</option>
+        <option value="2020">2020</option>
+      </select>
+      <p>年</p>
+
+      <select name="planMonth">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option> 
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+      </select>
+      <p>月</p>
+
+      <select name="planDay">
+        <option value="1">1</option>
+        <option value="2">2</option>
+      </select>
+      <p>日</p>
+    </div>
+
+    <div class="startBox">
+      <p>出発</p>
+      <div class="timeBox">
+        <p><input type="text" name="startHour"></p>
+        <span>：</span>
+        <p><input type="text" name="startMinute"></p>
+      </div>
+      <p><input type="text" name="startPos" placeholder="出発場所"></p>
+      
+    </div>
+
+    <div class="plan01Box">
+      <p>プラン１</p>
+      <div class="timeBox">
+        <p><input type="text" name="plan01Hour"></p>
+        <span>：</span>
+        <p><input type="text" name="plan01Minute"></p>
+      </div>
+      <p><input type="text" name="plan01text" placeholder="プラン１場所"></p>
+
+      <p><input type="radio" name="plan01cate" value="0" checked="checked">未選択</p>
+      <p><input type="radio" name="plan01cate" value="1">観光地</p>
+      <p><input type="radio" name="plan01cate" value="2">食事</p>
+      <p><input type="radio" name="plan01cate" value="3">お土産</p>
+      <p><input type="radio" name="plan01cate" value="4">荷物預け</p>
+    </div>
+
+    <div class="plan02Box">
+      <p>プラン２</p>
+      <div class="timeBox">
+        <p><input type="text" name="plan02Hour"></p>
+        <span>：</span>
+        <p><input type="text" name="plan02Minute"></p>
+      </div>
+      <p><input type="text" name="plan02text" placeholder="プラン２場所"></p>
+
+      <p><input type="radio" name="plan02cate" value="0" checked="checked">未選択</p>
+      <p><input type="radio" name="plan02cate" value="1">観光地</p>
+      <p><input type="radio" name="plan02cate" value="2">食事</p>
+      <p><input type="radio" name="plan02cate" value="3">お土産</p>
+      <p><input type="radio" name="plan02cate" value="4">荷物預け</p>
+    </div>
+
+    <div class="plan03Box">
+      <p>プラン３</p>
+      <div class="timeBox">
+        <p><input type="text" name="plan03Hour"></p>
+        <span>：</span>
+        <p><input type="text" name="plan03Minute"></p>
+      </div>
+      <p><input type="text" name="plan03text" placeholder="プラン３場所"></p>
+
+      <p><input type="radio" name="plan03cate" value="0" checked="checked">未選択</p>
+      <p><input type="radio" name="plan03cate" value="1">観光地</p>
+      <p><input type="radio" name="plan03cate" value="2">食事</p>
+      <p><input type="radio" name="plan03cate" value="3">お土産</p>
+      <p><input type="radio" name="plan03cate" value="4">荷物預け</p>
+    </div>
+
+    <div class="plan04Box">
+      <p>プラン４</p>
+      <div class="timeBox">
+        <p><input type="text" name="plan04Hour"></p>
+        <span>：</span>
+        <p><input type="text" name="plan04Minute"></p>
+      </div>
+      <p><input type="text" name="plan04text" placeholder="プラン４場所"></p>
+
+      <p><input type="radio" name="plan04cate" value="0" checked="checked">未選択</p>
+      <p><input type="radio" name="plan04cate" value="1">観光地</p>
+      <p><input type="radio" name="plan04cate" value="2">食事</p>
+      <p><input type="radio" name="plan04cate" value="3">お土産</p>
+      <p><input type="radio" name="plan04cate" value="4">荷物預け</p>
+    </div>
+
+    <div class="finishBox">
+      <p>到着</p>
+      <div class="timeBox">
+        <p><input type="text" name="finishHour"></p>
+        <span>：</span>
+        <p><input type="text" name="finishMinute"></p>
+      </div>
+      <p><input type="text" name="finishPos" placeholder="到着場所"></p>
+    </div>
+
+    <p><input type="submit" value="検索"></p>
+  </form>
+  <script src="js/jquery.js"></script>
+</body>
+</html>

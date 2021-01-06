@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="162" height="39" viewBox="0 0 162 39">
+  <g id="グループ_213" data-name="グループ 213" transform="translate(-454 -395)">
+    <g id="グループ_204" data-name="グループ 204" transform="translate(-7)">
+      <g id="長方形_44" data-name="長方形 44" transform="translate(461 395)" fill="#fff" stroke="#ed858a" stroke-width="2">
+        <rect width="162" height="39" rx="19.5" stroke="none"/>
+        <rect x="1" y="1" width="160" height="37" rx="18.5" fill="none"/>
+      </g>
+      <text id="カテゴリから追加" transform="translate(505 420)" fill="#ed858a" font-size="14" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="0" y="0">カテゴリ</tspan><tspan y="0" font-size="11">から追加</tspan></text>
+      <image id="チェックボックスアイコン_3_" data-name="チェックボックスアイコン (3)" width="17" height="17" transform="translate(480 406)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAC40lEQVRoQ+2ZT2vUQBTA35tlUby1McUP4MG7J2/qzVuDVMU/Bz+C4Ca62eJK7a5Ni4d+CmlFQS8iiNSDehAREUVEvYi2tLtiK7hlm3kywZR0TXYnO8mmwc1p2Z2Z/f3ee5OZSRByfmHO+WEokHUGc5OB1amZKjC8r9vmq2DQciEg4BnDawTwCREvaOXSc19i1wv48IGof+NA53XbeiK+w2bN8T5kdSHBpRHbfB32/yHwXjME+EEMzmpXzYfYmHYoC3gE+ExE57SK9SIOvN+WADYLhKezESBY5gzO6GVzqR/47T4Ii4MXIFgHgglt0nykCq+VzVMDFUCAtkt4Uq+UHiQB782HsDnAOV1PY16wArzVytadpOAjBTTbHOjtNepu848owqIomx0LWVgGBimgAq+UgcYNZ4Ix5o6UL9/tt9xU4fsWEPCAsICILnAwRiMmZTexJOD7EvDhA3AtYGCIVVE2E0nBxxYIgfeZNwjI2G9bj3tJJAkfS6ALvM/cdIkbY5UrT6MkkoaXFpCA95gJaAWRGcHtri+TBry0gGgoKwEAXzmRoVesl2nDxxKIKfEFAcdH7dKbtCLvByd0K9FtIVurzYwj4b1ekxUAPnBOt8VJqmfbkBW2Z5+/DWILiH5rU/XjyAo97zhSEArwsUsoCLRanzvMON+ucynYzkaK8EoCovPP+q2DW3zrY1bwygJigOXq7FixSCuxJBKIfN+TOAyU5uf3NDdaLSmJBOETyYAPTdXq3mZx3++uEgnDJyogBvvlOAc22/A9VEISXqwb+qRVlcpm1JFS5UCzXps71Cb+fgeAJHyj5ixwl95lKuCt2LXZI0D0zJOIAS+eVojzeOYCgrs5ffMEIbvYeYYNKw0ReQEvfts1ArI1HITPnUDYRi9XGRgKRD+Zc4/J1rBaO3a0c7udSAmpQan1HgqoxU+99/+XgazfkXXmzHVpKdZWQj3p2Y4w0PcAaagOBdKIapwx/wAs0PU0CsZYOwAAAABJRU5ErkJggg=="/>
+    </g>
+  </g>
+</svg>

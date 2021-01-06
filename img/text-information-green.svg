@@ -1,0 +1,10 @@
+<svg id="コンポーネント_1" data-name="コンポーネント 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="139" height="39" viewBox="0 0 139 39">
+  <g id="長方形_67" data-name="長方形 67" fill="#fff" stroke="#9ab74c" stroke-width="2">
+    <rect width="139" height="39" rx="19.5" stroke="none"/>
+    <rect x="1" y="1" width="137" height="37" rx="18.5" fill="none"/>
+  </g>
+  <g id="グループ_254" data-name="グループ 254" transform="translate(-404 -389)">
+    <text id="情報を見る" transform="translate(451 414)" fill="#9ab74c" font-size="14" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="0" y="0">情報を見る</tspan></text>
+    <image id="ベタ塗りのドキュメント_2_" data-name="ベタ塗りのドキュメント (2)" width="19" height="19" transform="translate(425 399)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACY0lEQVR4Xu2av0/bQBTHv2eSvwAY2BErAwOCCaQqkoMz8ifUqYCRuQSmShVT1RbMwIpYkJoQSyxlCmJD7OwIqRNbEH7IIKS2in/Ed8+J7Oc18bv3/fju3fvap5Dz5fnObwArOQzbA6kTt97+FjeW4k7E8xtf+9XKl60PZ3/CsXIE8CpNwZr/aP+6jdLJCiAUD9B2v1qdGhUAItpu1s/3cwfwLj4ceKQAAuw21zqtXAH8Lb50AP4XXyoAg8SXBkCU+FIAiBNfeABJ4gsNII34wgJIK76QAIYRXzgAw4ovFIAs4tMAeAZWs5qyCSB0l5EXmWqFs4oPM3sKgpnNte59lBt07U5mU+b5DrED0BEPqDvXbs++JznIDo81gFC8UjSZaYoSHmkiOHZr3Zs4AAAuM8V/uyn25YqxJaCR4D+3er7zAGDaVLykOGMF4MhvnBJoPSlpk79rAfjpO0be3VVAcwGsBQVyTYpLE0sLwOG501IWdtIMNK7/EQA6fYDMAFkCUgMSi2BYZEZZAJOKNHsR1GljTYBj9QJpimDpAehYWRMzgNUOp5kBJkRwxmCvAZzJm4gtAKQT1Pg6LDVAWmFphRNbYROVmjOG7ALcu0DpW2EBoPFVx8TaH7kbNCGCM4YUQe4iyPn0TMSWGSAzQMxQ9rPC4gbFDYobTHSDpX8rLF5AvIDWAScTzR7fISnZBmUblG0wcRs0sYg5Y4gbFDeo4QY9v7EB0HfOKcofW226dvtH1Dixx9QPfGfJAnr8SfKNEADLn+zOVSYA4U2HXaemLOyBsMiXJkNkhWsK8LlZ71zERX8B7gdtX42vqy4AAAAASUVORK5CYII="/>
+  </g>
+</svg>

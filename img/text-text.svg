@@ -1,0 +1,7 @@
+<svg id="グループ_146" data-name="グループ 146" xmlns="http://www.w3.org/2000/svg" width="93" height="26" viewBox="0 0 93 26">
+  <g id="長方形_51" data-name="長方形 51" fill="#fff" stroke="#84b1ed" stroke-width="1">
+    <rect width="93" height="26" rx="13" stroke="none"/>
+    <rect x="0.5" y="0.5" width="92" height="25" rx="12.5" fill="none"/>
+  </g>
+  <text id="テキストから追加" transform="translate(15 17)" fill="#84b1ed" font-size="9" font-family="NotoSansJP-Bold, Noto Sans JP Bold" font-weight="700"><tspan x="0" y="0">テキスト</tspan><tspan y="0" font-size="7">から</tspan><tspan y="0" font-size="7">追加</tspan></text>
+</svg>

@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700&display=swap" rel="stylesheet">
+  <link href="css/ress.css" rel="stylesheet" type="text/css">
+  <link href="css/search.css" rel="stylesheet" type="text/css"> 
+  <title>Document</title>
+</head>
+<body>
+  <div class="wrap">
+    <div class="left">
+      <div class="schedule">
+        <select class="years">
+          <option value="0" selected="selected">0000</option>
+          <option value="1">2019</option>
+          <option value="2">2020</option>
+          <option value="3">2021</option>
+          <option value="4">2022</option>
+          <option value="5">2023</option>
+          <option value="6">2024</option>
+          <option value="7">2025</option>
+        </select>
+        <p class="year">年</p>
+        <select class="months">
+          <option value="0" selected="selected">00</option>
+          <option value="1">01</option>
+          <option value="2">02</option>
+          <option value="3">03</option>
+          <option value="4">04</option>
+          <option value="5">05</option>
+          <option value="6">06</option>
+          <option value="7">07</option>
+          <option value="8">08</option>
+          <option value="9">09</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+        </select>
+        <p class="month">月</p>
+        <select class="days">
+          <option value="0" selected="selected">00</option>
+          <option value="1">01</option>
+          <option value="2">02</option>
+          <option value="3">03</option>
+          <option value="4">04</option>
+          <option value="5">05</option>
+          <option value="6">06</option>
+          <option value="7">07</option>
+          <option value="8">08</option>
+          <option value="9">09</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option>
+          <option value="17">17</option>
+          <option value="18">18</option>
+          <option value="19">19</option>
+          <option value="20">20</option>
+          <option value="21">21</option>
+          <option value="22">22</option>
+          <option value="23">23</option>
+          <option value="24">24</option>
+          <option value="25">25</option>
+          <option value="26">26</option>
+          <option value="27">27</option>
+          <option value="28">28</option>
+          <option value="29">29</option>
+          <option value="30">30</option>
+          <option value="31">31</option>
+        </select>
+        <p class="day">日</p>
+        <p class="schedules">　のスケジュール</p>
+      </div>
+      <div class="scroll">
+        <div class="time-start">
+            <div class="time-text">
+                <p class="text-text">出発</p>
+                <p class="place"><input type="text" size="5" value="" placeholder="00"></p>
+                <span class="span-a">:</span>
+                <p class="place-a"><input type="text" size="5" value="" placeholder="00"></p>
+            </div>
+            <div class="place-text">
+            <p><input type="text" size="30" value="" placeholder="出発地を入力してください。"></p>
+            </div>
+        </div>
+        <p class="dot"><img src="img/deco-dot.svg" alt="省略図"></p>
+        <div class="times-start">
+            <div class="time-text">
+                <p class="text-blue">予定1</p>
+                <p class="places"><input type="text" size="5" value="" placeholder="00"></p>
+                <span class="span-b">:</span>
+                <p class="places-a"><input type="text" size="5" value="" placeholder="00"></p>
+            </div>
+            <p class="mark"><a href=""><img src="img/mark-text-blue.svg" alt="テキストから追加"></a></p>
+            <p class="mark-a"><a href=""><img src="img/category-text-blue.svg" alt="カテゴリから追加"></a></p>
+            <p class="mark-b"><img src="img/icon-carbage-blue.svg" alt="ゴミ箱"></p>
+        </div>
+        <p class="dot"><img src="img/deco-dot.svg" alt="省略図"></p>
+        <div class="times-start">
+            <div class="time-text">
+                <p class="text-red">予定2</p>
+                <p class="places"><input type="text" size="5" value="" placeholder="00"></p>
+                <span class="span-b">:</span>
+                <p class="places-a"><input type="text" size="5" value="" placeholder="00"></p>
+            </div>
+            <p class="mark"><a href=""><img src="img/mark-text-red.svg" alt="テキストから追加"></a></p>
+            <p class="mark-a"><a href=""><img src="img/category-text-red.svg" alt="カテゴリから追加"></a></p>
+            <p class="mark-b"><img src="img/icon-carbage-red.svg" alt="ゴミ箱"></p>
+        </div>
+        <p class="dot"><img src="img/deco-dot.svg" alt="省略図"></p>
+        <div class="times-start">
+            <div class="time-text">
+                <p class="text-green">予定3</p>
+                <p class="places"><input type="text" size="5" value="" placeholder="00"></p>
+                <span class="span-b">:</span>
+                <p class="places-a"><input type="text" size="5" value="" placeholder="00"></p>
+            </div>
+            <p class="mark"><a href=""><img src="img/mark-text-green.svg" alt="テキストから追加"></a></p>
+            <p class="mark-a"><a href=""><img src="img/category-text-green.svg" alt="カテゴリから追加"></a></p>
+            <p class="mark-b"><img src="img/icon-carbage-green.svg" alt="ゴミ箱"></p>
+        </div>
+        <p class="dot"><img src="img/deco-dot.svg" alt="省略図"></p>
+        <div class="times-start">
+            <div class="time-text">
+                <p class="text-blue">予定4</p>
+                <p class="places"><input type="text" size="5" value="" placeholder="00"></p>
+                <span class="span-b">:</span>
+                <p class="places-a"><input type="text" size="5" value="" placeholder="00"></p>
+            </div>
+            <p class="mark"><a href=""><img src="img/mark-text-blue.svg" alt="テキストから追加"></a></p>
+            <p class="mark-a"><a href=""><img src="img/category-text-blue.svg" alt="カテゴリから追加"></a></p>
+            <p class="mark-b"><img src="img/icon-carbage-blue.svg" alt="ゴミ箱"></p>
+        </div>
+        <p class="dot">
+          <img src="img/deco-dot.svg" alt="省略図">
+        </p>
+        <p class="add">
+          <a href="">予定を追加</a>
+        </p>
+        <p class="dot-a">
+          <img src="img/deco-dot.svg" alt="省略図">
+        </p>
+          <div class="time-finish">
+            <div class="time-text">
+                <p class="text-text">到着</p>
+                <p class="place"><input type="text" size="5" value="" placeholder="00"></p>
+                <span class="span-a">:</span>
+                <p class="place-a"><input type="text" size="5" value="" placeholder="00"></p>
+            </div>
+            <div class="place-text">
+            <p><input type="text" size="30" value="" placeholder="出発地を入力してください。"></p>
+            </div>
+        </div>
+      </div>  
+        <p class="search"><a href=""><img src="img/icon-search.svg" alt="検索"></a></p>
+        <p class="rogo"><img src="img/icon-rogo.svg" alt="よりたび"></p>
+  </div>
+    
+    <div class="right">
+      <div class="none">
+        <div class="display">
+          <p>出発地か到着地を入力すると<br>
+          周辺のおすすめスポットが表示されます。</p>
+        </div>
+        <p class="save"><a href=""><img src="img/icon-save.svg" alt="保存"></a></p>
+      </div>
+      <div class="category">
+        <div class="plan">
+        <p class="text">
+          <img src="img/map-icon.svg" alt="模様">
+          カテゴリ
+        </p>
+          <div class="select">
+            <p>
+              <input type="radio" name="plan" value="0" id="select01">
+              <label for="select01">観光地</label>
+            </p>
+            <p>
+              <input type="radio" name="plan" value="1" id="select02">
+              <label for="select02">食事</label>
+            </p>
+            <p>
+              <input type="radio" name="plan" value="2" id="select03">
+              <label for="select03">お土産</label>
+            </p>
+            <p>
+              <input type="radio" name="plan" value="3" id="select04">
+              <label for="select04">コインロッカー</label>
+            </p>
+          </div>
+          <div class="sightseeing">
+            <div class="sightseeing-main">
+              <p><input type="radio" name="sightseeing" value="0">歴史</p>
+              <p><input type="radio" name="sightseeing" value="1">芸術</p>
+            </div>
+            <div class="sightseeing-main">
+              <p><input type="radio" name="sightseeing" value="2">風景</p>
+              <p><input type="radio" name="sightseeing" value="3">動物/植物</p>
+            </div>
+            <div class="sightseeing-main">
+              <p><input type="radio" name="sightseeing" value="4">体験/見学</p>
+              <p><input type="radio" name="sightseeing" value="5">温泉</p>
+            </div>
+          </div>
+
+          <div class="food">
+              <div class="food-main">
+                <p><input type="radio" name="food" value="0">肉</p>
+                <p><input type="radio" name="food" value="1">魚</p>
+              </div>
+              <div class="food-main">
+                <p><input type="radio" name="food" value="2">和食</p>
+                <p><input type="radio" name="food" value="3">洋食</p>
+              </div>
+              <div class="food-main">
+                <p><input type="radio" name="food" value="4">中華</p>
+                <p><input type="radio" name="food" value="5">その他海外料理</p>
+              </div>
+            </div>
+        </div>
+        <div class="term">
+            <p class="text">
+              <img src="img/map-icon.svg" alt="模様">
+              条件
+                <span>※複数選択可能です</span>
+            </p>
+           
+            <div class="checkbox">
+             <p><input type="checkbox" name="term" value="0">スーツでも可</p>
+             <p><input type="checkbox" name="term" value="1">屋内</p>
+             <p><input type="checkbox" name="term" value="2">楽しめる</p>
+             <p><input type="checkbox" name="term" value="3">自然を感じる</p>
+             <p><input type="checkbox" name="term" value="4">ヒールでも可</p>
+             <p><input type="checkbox" name="term" value="5">屋外</p>
+             <p><input type="checkbox" name="term" value="6">癒される</p>
+             <p><input type="checkbox" name="term" value="7">気軽にいける</p>
+            </div>
+        </div>
+        <div class="budget">
+          <p class="text">
+            <img src="img/map-icon.svg" alt="模様">
+            予算
+          </p>
+          <select class="selected">
+            <option value="指定なし" selected="selected">指定なし</option>
+            <option value="0">1,000円以下</option>
+            <option value="1">2,000円以下</option>
+            <option value="2">3,000円以下</option>
+            <option value="3">4,000円以下</option>
+            <option value="4">5,000円以下</option>
+            <option value="5">6,000円以下</option>
+            <option value="6">7,000円以下</option>
+            <option value="7">8,000円以下</option>
+            <option value="8">9,000円以下</option>
+            <option value="9">10,000円以下</option>
+          </select>
+        </div>
+        <p class="save"><a href=""><img src="img/icon-save.svg" alt="保存"></a></p>
+      </div>
+    <div class="advice">
+      <div class="advice-main">
+      <p class="text">
+        <img src="img/map-icon.svg" alt="模様">
+        おすすめスポット
+      </p>
+      <div class="recommended">
+        <div class="one">
+          <p><img src="img/img-castle.svg" alt="大阪城"></p>
+          <p class="shop">大阪城</p>
+          <p class="descripiton">最上階からの展望、黄金の茶室、試着体験コーナーなど見所も猛威観光スポットです。</p>
+        </div>
+        <div class="two">
+          <p><img src="img/img-doutonbori.svg" alt="道頓堀"></p>
+          <p class="shop">道頓堀</p>
+          <p class="descripiton">様々なグルメを楽しむことのできる道頓堀です。「とんぼりリバーウォーク」もおすすめ！</p>
+        </div>
+        <div class="three">
+          <p><img src="img/img-hep.svg" alt="HEP FIVE"></p>
+          <p class="shop">HEP FIVE</p>
+          <p class="descripiton">梅田の中心にある複合商業施設。記念撮影サービスもあります。</p>
+        </div>
+        <div class="one">
+          <p><img src="img/img-takoyaki.svg" alt="カリッとたこやき"></p>
+          <p class="shop">カリッとたこやき</p>
+          <p class="descripiton">カリカリに焼いた、たこ焼きが有名なお店。薬味はかけ放題！</p>
+        </div>
+        <div class="two">
+          <p><img src="img/img-yakiyaki.svg" alt="ヤキヤキ"></p>
+          <p class="shop">ヤキヤキ</p>
+          <p class="descripiton">半世紀以上前に創業した老舗で、ミシュランガイドにも掲載されたお好み焼き屋です。</p>
+        </div>
+        <div class="three">
+          <p><img src="img/img-kusimono.svg" alt="くしものさん"></p>
+          <p class="shop">くしものさん</p>
+          <p class="descripiton">定番の各種串カツの他にも、季節限定の食べ物やごはん物も用意されています。</p>
+        </div>
+      </div>
+      </div>
+      <p class="save"><a href=""><img src="img/icon-save.svg" alt="保存"></a></p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

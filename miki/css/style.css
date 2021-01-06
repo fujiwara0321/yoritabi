@@ -1,0 +1,36 @@
+.planDate{
+  display: flex;
+}
+
+.timeBox{
+  display: flex;
+}
+
+input{
+  border: solid 1px #333;
+}
+
+form >div{
+  margin: 20px 0;
+}
+
+.startBox{
+  border: solid 2px lightpink;
+}
+
+.plan01Box{
+  border: solid 2px lightgreen;
+}
+.plan02Box{
+  border: solid 2px lightskyblue;
+}
+.plan03Box{
+  border: solid 2px lightpink;
+}
+.plan04Box{
+  border: solid 2px lightgreen;
+}
+
+.finishBox{
+  border: solid 2px lightskyblue;
+}

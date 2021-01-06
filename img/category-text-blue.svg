@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="162" height="39" viewBox="0 0 162 39">
+  <g id="グループ_222" data-name="グループ 222" transform="translate(-453 -287)">
+    <g id="グループ_209" data-name="グループ 209" transform="translate(-7)">
+      <g id="グループ_155" data-name="グループ 155" transform="translate(460 287)">
+        <g id="長方形_44" data-name="長方形 44" fill="#fff" stroke="#84b1ed" stroke-width="2">
+          <rect width="162" height="39" rx="19.5" stroke="none"/>
+          <rect x="1" y="1" width="160" height="37" rx="18.5" fill="none"/>
+        </g>
+      </g>
+      <text id="カテゴリから追加" transform="translate(504 312)" fill="#84b1ed" font-size="14" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="0" y="0">カテゴリ</tspan><tspan y="0" font-size="11">から追加</tspan></text>
+      <image id="チェックボックスアイコン_2_" data-name="チェックボックスアイコン (2)" width="17" height="17" transform="translate(479 298)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAC4UlEQVRoQ+2ZT28SQRTA3xtq9NquNH4AD949eVNvHtplbVDjn4MfwSssFgU18einMK2BANEYE9PUg3owxhijMUa9GG3TghFNbIWdZwYK1GVhZ3dn2RLZE2HfDL/fe/NvWYQxv3DM+WEiEHUFx6YCueJGlnEopxfiL3cnbSwEBDwytghEH1kML6XmtGcdiT0v0IXfIUaAr03gFxf1+Ir4CvPlWutDVBdaeCVtTL9y+n07fDcG8TsRnc/o2kPMl6oUBTwifiKgC+a89twTfDeYtgFjZ6MSWGPIz6Xm46v+4LutlqMQqBOHZMbQHgWFN3XtzEgFELBBZC2YiXhFBXx7EjvMAeL8WijzAtmbTEK7pwp+oICpayNdXgeuNv2my2LY/LOROVVglAJB4ANVIF+qJhkwK6VPF/wOt6DwvgUEPAAsIaBFDAxzbsZxUg4TUwHvS6AD39sVYYsIDLErylZCFbxngT74HvFP5GSkjYOP3SRUwnsSGALfZiaoAVqGqc8+GSShGl5awBW+dz5Z5xYaV0/3jrudW2HASwuIQFkJIviCyA1Tj78IG96TgBcJAPiMgIm0PvM6rMx3kuN4lBi2keUqmwnkWHSbrADwnji/23qScr/6dlj3Ju0IzwKiUa68eRIJXVccSQjf8L4FRMPrxY2jjLHuOJeEtYcFgg8kIBrfKv04bEHzQ1TwgQVEB9nC2uxUbN+6R4nAmfc9iZ1A7zyg/fVGbUtSQhm8kgp0oLMrdGCqXvvtIqEUXqmA6Oz2/V+H/jS3vw2QkIIX+0bGiGclq+lvGR3W+c1K/QjnjXe2GCn4fKm6RJy/jVSgtcQWqsdYDJ7uSEjDA0BSPI9HLiDAb5Rrp4josv0Z1ql6IvMCXtzbMwKyY3g3/NgJOB30xqoCE4Eh/8ydkB3DAeOO24/bSoZQQKhAzScCgdKnoPF/WIGI35HZi0aWterpKKGg6pF2MdL3AGGYTgTCyKqXPv8CpC/1gMXcd7gAAAAASUVORK5CYII="/>
+    </g>
+  </g>
+</svg>
